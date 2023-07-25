@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fgirl-code-gifs&psig=AOvVaw3ewab4BWUfaAy2gqHBAhh2&ust=1690389056364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjk142kqoADFQAAAAAdAAAAABAD "/>                                     
+<img align="right" alt="Coding" width="400" src=" <div class="tenor-gif-embed" data-postid="16793279" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/girl-hacker-hacker-girl-code-code-girl-gif-16793279">Girl Hacker GIF</a>from <a href="https://tenor.com/search/girl-gifs">Girl GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> "/>                                     
 			     	
 
 

@@ -7,17 +7,11 @@
 <h1 align="center">👋 Hi there! </h1>
   
   
- <h2> I'm Giorgia 🙋🏼‍♀️ 
-  a junior Full-Stack developer from Italy. 🌞</h2>
-        
-        
-        
-         <h3>👩🏼‍💻  I’m currently an Epicode Student 🚀
-        
-         🌱 I’m currently learning a new programming language: Java 💻 </h3>
-               
-               
-               
+ <h2 align="center" > I'm Giorgia 🙋🏼‍♀️ 
+  a junior Full-Stack developer from Italy. 🌞</h2> <br>
+         <h3>👩🏼‍💻  I’m currently an Epicode Student 🚀 <br>
+        🌱 I’m currently learning a new programming language: Java 💻 </h3>
+               <br>
 <h3 align="left"> • Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/giorgia021/" target="blank">

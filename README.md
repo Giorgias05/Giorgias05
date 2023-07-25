@@ -7,7 +7,8 @@
 <h3 align="center">👋 Hi there! 
   
   
-  I'm Giorgia 🙋🏼‍♀️ a junior Full-Stack developer from Italy. 🌞</h3>
+  I'm Giorgia 🙋🏼‍♀️ <br>
+  a junior Full-Stack developer from Italy. 🌞</h3>
         
         
         

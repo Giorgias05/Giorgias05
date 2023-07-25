@@ -1,13 +1,13 @@
  	
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif"/>
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif"/>
 
 
 <h3 align="center">👋 Hi there! 
   
   
-  I'm Giorgia 🙋🏼‍♀️ <br>
+  I'm Giorgia 🙋🏼‍♀️ 
   a junior Full-Stack developer from Italy. 🌞</h3>
         
         

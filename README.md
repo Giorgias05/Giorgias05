@@ -4,17 +4,17 @@
 <img align="center" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif"/>
 
 
-<h3 align="center">👋 Hi there! 
+<h1 align="center">👋 Hi there! </h1>
   
   
-  I'm Giorgia 🙋🏼‍♀️ 
-  a junior Full-Stack developer from Italy. 🌞</h3>
+ <h2> I'm Giorgia 🙋🏼‍♀️ 
+  a junior Full-Stack developer from Italy. 🌞</h2>
         
         
         
-          👩🏼‍💻  I’m currently an Epicode Student 🚀
+         <h3>👩🏼‍💻  I’m currently an Epicode Student 🚀
         
-         🌱 I’m currently learning a new programming language: Java 💻
+         🌱 I’m currently learning a new programming language: Java 💻 </h3>
                
                
                

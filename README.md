@@ -1,6 +1,6 @@
-[![Linkedin RetroWave Banner](https://github.com/Giorgias05)](https://www.linkedin.com/in/giorgia021/)	     	
+ 	
 
-
+<img align="right" alt="Coding" width="400" src=" ![img2](https://github.com/Giorgias05/Giorgias05/assets/121100010/0861ecdb-2a5d-46c8-a46d-18ff79ec8f30)"/>
 
 
 

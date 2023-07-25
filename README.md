@@ -1,7 +1,7 @@
  	
 
-<img align="right" alt="Coding" width="400" src=" ![img2](https://github.com/Giorgias05/Giorgias05/assets/121100010/0861ecdb-2a5d-46c8-a46d-18ff79ec8f30)"/>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif"/>
 
 
 <h3 align="center">👋 Hi there! 

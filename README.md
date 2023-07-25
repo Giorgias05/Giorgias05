@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://tenor.com/it/view/girl-hacker-hacker-girl-code-code-girl-gif-16793279 ">                         
-			     	
+[![Linkedin RetroWave Banner](https://github.com/Giorgias05)](https://www.linkedin.com/in/giorgia021/)	     	
 
 
 

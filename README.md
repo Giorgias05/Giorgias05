@@ -11,7 +11,7 @@
   a Junior Full-Stack developer from Italy. 🌞</h3> 
     <h3> I have just finished the Epicode Bootcamp 👩🏼‍🎓<br>
     <h3>👩🏼‍💻 I’m currently working on "My Portfolio". <br></h3>
-     <h3>I’m also learning Java. 💻 </h3> </div>
+     <h3>I’m also learning Java, Vite and Tailwind CSS. 💻 </h3> </div>
                <br>
 <h1 align="left"> • Connect with me:</h1>
 <p align="left">
